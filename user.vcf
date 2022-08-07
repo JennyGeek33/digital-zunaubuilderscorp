@@ -6,8 +6,8 @@ ORG:Zuna Builders Corporation;
 TITLE:CEO
 EMAIL;type=INTERNET;type=WORK;type=pref:contact@zunabuilderscorporation.com
 TEL;type=WORK;type=VOICE:(646)667-5703
-item1.ADR;type=WORK;type=pref:;;Wayne\, 09-01;;;07470
+item1.ADR;type=WORK;type=pref:;;Wayne\, ;;;07470
 item1.X-ABADR:USA
-item2.URL;type=pref:zunabuilderscorporation.com
+item2.URL;type=pref:https://zunabuilderscorporation.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
